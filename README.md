@@ -58,6 +58,7 @@
   <div class="container">
     <img src="https://instagram.fppb3-1.fna.fbcdn.net/v/t51.2885-19/530363931_17848914738535962_8057335182419398532_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTQuYzIifQ&_nc_ht=instagram.fppb3-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QHc1QTR0tKuiy_bXZ5jfTmJfxNmeW3HpyZFUKxvNs1vwdB1xDg_BtIJxiV5gD8FrmdexiMGPcPvateIS6iAGSxC&_nc_ohc=bMkbCT1_mZQQ7kNvwEQcVAL&_nc_gid=IDCguG4lTbcvktQfhELXow&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfXoB4RSvIUOht_XEjG-YDvAnCojMHMXUQMBY4j1MpAXwg&oe=689F1AD8&_nc_sid=7d3ac5" alt="Foto de Perfil" class="avatar">
     <h1>Top Ofertas Dré</h1>
+    <p class="description">Melhores ofertas da semana que recomendo!!!</p>
     <p class="description">Achadinhos incríveis em moda, beleza, tecnologia e muito mais!</p>
 
   <a href="https://amzn.to/46VoqE9" target="_blank" rel="noopener" class="link">
