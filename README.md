@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Melhores ofertas da semana que recomendo!!!</title>
-<!--  <style>
+  <style>
     body {
       font-family: 'Segoe UI', sans-serif;
       background: #f4f4f4;
@@ -52,23 +52,23 @@
       font-size: 14px;
       color: #999;
     }
-  </style>-->
+  </style>
 </head>
 <body>
   <div class="container">
-   <!--> <img src="avatar.png" alt="Foto de Perfil" class="avatar">-->
+    <img src="avatar.png" alt="Foto de Perfil" class="avatar">
     <h1>Top Ofertas Dré</h1>
     <p class="description">Achadinhos incríveis em moda, beleza, tecnologia e muito mais!</p>
 
-    <a href="https://amzn.to/46VoqE9">Mini Grill Oster 2 em 1</a>
-    <a href="https://amzn.to/411OUA1" class="link">Barbeador Dragão Inox</a>
-    <a href="https://amzn.to/4mdju2a" class="link">Escova Marco Boni 52mm</a>
-    <a href="https://amzn.to/41DhjfR" class="link">Furadeira Vonder 12V</a>
-    <a href="https://amzn.to/4m3V62M" class="link">DIA DOS PAIS AMAZON</a>
+  <a href="https://amzn.to/46VoqE9" class="link">Mini Grill Oster 2 em 1</a>
+  <a href="https://amzn.to/411OUA1" class="link">Barbeador Dragão Inox</a>
+  <a href="https://amzn.to/4mdju2a" class="link">Escova Marco Boni 52mm</a>
+  <a href="https://amzn.to/41DhjfR" class="link">Furadeira Vonder 12V</a>
+  <a href="https://amzn.to/4m3V62M" class="link">DIA DOS PAIS AMAZON</a>
 
-    <footer>
+  <footer>
       Criado por André — <a href="https://www.instagram.com/topofertasdre" target="_blank">@topofertasdre</a>
-    </footer>
+  </footer>
   </div>
 </body>
 </html>
