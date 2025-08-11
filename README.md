@@ -56,7 +56,7 @@
 </head>
 <body>
   <div class="container">
-    <img src="avatar.png" alt="Foto de Perfil" class="avatar">
+   <!--> <img src="avatar.png" alt="Foto de Perfil" class="avatar">-->
     <h1>Top Ofertas Dré</h1>
     <p class="description">Achadinhos incríveis em moda, beleza, tecnologia e muito mais!</p>
 
