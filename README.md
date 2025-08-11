@@ -60,14 +60,19 @@
     <h1>Top Ofertas Dré</h1>
     <p class="description">Achadinhos incríveis em moda, beleza, tecnologia e muito mais!</p>
 
-  <a href="https://amzn.to/46VoqE9" class="link">Mini Grill Oster 2 em 1</a>
   <a href="https://amzn.to/46VoqE9" target="_blank" rel="noopener">
   <img src="https://m.media-amazon.com/images/I/413F1Icml2L._AC_SX679_.jpg" alt="Mini Grill Oster" style="height: 50px; vertical-align: middle;">Mini Grill Oster 2 em 1</a>
 
-  <a href="https://amzn.to/411OUA1" class="link">Barbeador Dragão Inox</a>
-  <a href="https://amzn.to/4mdju2a" class="link">Escova Marco Boni 52mm</a>
-  <a href="https://amzn.to/41DhjfR" class="link">Furadeira Vonder 12V</a>
-  <a href="https://amzn.to/4m3V62M" class="link">DIA DOS PAIS AMAZON</a>
+  <a href="https://amzn.to/411OUA1" target="_blank" rel="noopener">
+  <img src="https://m.media-amazon.com/images/I/51-hu+5a4JL._AC_SL1000_.jpg" alt="Barbeador Dragão Inox" style="height: 50px; vertical-align: midde;">Barbeador Dragão Inox</a>
+
+  <a href="https://amzn.to/4mdju2a" target="_blank" rel="noopener">
+  <img src="https://m.media-amazon.com/images/I/71Rzw5P2noL._AC_SL1500_.jpg" alt="Escova Marco Boni 52mm" style="height: 50px; vertical-align: midde;">Escova Marco Boni 52mm</a>
+
+  <a href="https://amzn.to/4lpbZ6W" target="_blank" rel="noopener">
+  <img src="https://m.media-amazon.com/images/I/71YFhBEympL._AC_SL1500_.jpg" alt="Furadeira Vonder 12V" style="height: 50px; vertical-align: midde;">Furadeira Vonder 12V</a>
+
+  <a href="https://amzn.to/4fsEMpL" target="_blank" rel="noopener">DIA DOS PAIS AMAZON</a>
 
   <footer>
       Criado por André — <a href="https://www.instagram.com/topofertasdre" target="_blank">@topofertasdre</a>
