@@ -62,7 +62,7 @@
 
   <a href="https://amzn.to/46VoqE9" class="link">Mini Grill Oster 2 em 1</a>
   <a href="https://amzn.to/46VoqE9" target="_blank" rel="noopener">
-  <img src="https://m.media-amazon.com/images/I/413F1Icml2L._AC_SX679_.jpg" alt="Mini Grill Oster" style="height: 50px; vertical-align: middle;">Mini Grill Oster 2 em 1</a>
+  <img src="https://m.media-amazon.com/images/I/413F1Icml2L._AC_SX679_.jpg" alt="Mini Grill Oster" style="height: 50px; vertical-align: middle">Mini Grill Oster 2 em 1</a>
 
   <a href="https://amzn.to/411OUA1" class="link">Barbeador Dragão Inox</a>
   <a href="https://amzn.to/4mdju2a" class="link">Escova Marco Boni 52mm</a>
