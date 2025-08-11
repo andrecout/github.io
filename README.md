@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Melhores ofertas da semana que recomendo!!!</title>
-  <style>
+<!--  <style>
     body {
       font-family: 'Segoe UI', sans-serif;
       background: #f4f4f4;
@@ -52,7 +52,7 @@
       font-size: 14px;
       color: #999;
     }
-  </style>
+  </style>-->
 </head>
 <body>
   <div class="container">
