@@ -72,6 +72,9 @@
   <a href="https://amzn.to/4lpbZ6W" target="_blank" rel="noopener" class="link">
   <img src="https://m.media-amazon.com/images/I/71YFhBEympL._AC_SL1500_.jpg" alt="Furadeira Vonder 12V" style="height: 80px; vertical-align: midde;">Furadeira Vonder 12V</a>
 
+  <a href="https://s.shopee.com.br/8UygAw2eq7" target="_blank" rel="noopener" class="link">
+  <img src="https://down-br.img.susercontent.com/file/br-11134207-7r98o-lprvmi145y5jac.webp" alt="Notebook Vaio Carbon Intel Core I5 10ger 16gb 240ssd 14pol" style="height: 80px; vertical-align: midde;">Notebook    Vaio Carbon Intel Core I5 10ger 16gb 240ssd 14pol</a>
+
   <a href="https://amzn.to/4fsEMpL" target="_blank" rel="noopener" class="link">DIA DOS PAIS AMAZON</a>
 
   <footer>
